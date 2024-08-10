@@ -1,0 +1,8 @@
+body{
+    background-color: bisque;
+}
+.centrar{
+    margin-left: 250px;
+    width: 70%;
+    height: 500px;
+}
